@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://okmu.eu/dc-logo.png" alt="MuOnline Bot Logo" width="150" height="150">
 </p>
@@ -7,6 +6,10 @@
 
 <p align="center">
   A private Discord bot for MuOnline server management and player ranking.
+  <br><br>
+  <strong>🔄 The bot is actively maintained and frequently updated with new features.</strong>
+  <br>
+  <strong>💡 Have suggestions? You can share your ideas in our Discord server.</strong>
   <br><br>
   <strong>🔔 All updates and announcements can be followed in our Discord server.</strong>
   <br>
