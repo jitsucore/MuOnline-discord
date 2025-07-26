@@ -28,7 +28,7 @@
 
 **MuOnline Bot** is a private Discord bot designed for server administration and protection against unwanted advertisements. It also supports player ranking management and other useful features tailored for MuOnline servers.
 
-## ⚙️ Features
+## <h2 id="features">⚙️ Features</h2>
 
 - **Anti-Advertisement System** – Automatically detects and removes messages containing forbidden links.
 - **Whitelist** – Allows trusted domains to bypass the ad filter.
@@ -47,7 +47,7 @@ This bot is **private** and not publicly available. It is self-hosted and used o
 
 MuOnline Bot supports various `/` commands to manage your server, handle player rankings, and configure settings.
 
-## 📜 Commands
+## <h2 id="commands">📜 Commands</h2>
 
 ### `/addwhitelist`
 
